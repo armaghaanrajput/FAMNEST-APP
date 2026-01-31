@@ -1,0 +1,8 @@
+{
+  "name": "FamNest Pro",
+  "description": "A comprehensive family dashboard for organizing plans, chatting with loved ones, and utilizing cutting-edge AI for family-friendly guidance and content creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
